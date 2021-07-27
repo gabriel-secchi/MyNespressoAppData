@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "name": "Stockholm Fortissio Lungo",
     "short_description": "Café encorpado & maltado",
     "description": "Os grãos de um verdadeiro arábica intenso, proporcionam o sabor puro amado pelos suecos - maltado, com um toque de rico de amargor. Os suecos estão entre os maiores consumidores de café do mundo. Passeie por Estocolmo e muitas vezes você encontrará cafés pretos intensos com uma nota maltada proveniente do distinto Monsoon Arabica. STOCKHOLM FORTISSIO LUNGO recria o perfil aromático de um café sueco. O Arábica colombiano para obter uma xícara doce e intensa com um toque de amargor. Desfrute como um nativo: compartilhe sua xícara e seus pãezinhos de canela com amigos e familiares.",
@@ -17,6 +18,7 @@
     }
   },
   {
+    "id": 2,
     "name": "Ristretto Italiano",
     "short_description": "Café poderoso e contrastante",
     "description": "Embaixador de todos os cafés italianos, desenvolvemos o Ispirazione Ristretto Italiano Decaffeinato, um café que utiliza a técnica Split Roast, uma torra separada dos grãos. O resultado? Sutis notas frutadas em um café intenso e encorpado.",
@@ -32,39 +34,5 @@
       "expresso": true,
       "lungo": false
     }    
-  },
-  {
-    "name": "Ristretto Italiano teste02",
-    "short_description": "Café poderoso e contrastante",
-    "description": "Embaixador de todos os cafés italianos, desenvolvemos o Ispirazione Ristretto Italiano Decaffeinato, um café que utiliza a técnica Split Roast, uma torra separada dos grãos. O resultado? Sutis notas frutadas em um café intenso e encorpado.",
-    "image_for_list": "https://www.nespresso.com/ecom/medias/sys_master/public/13703618363422/C-0686-Responsive-Standard-2000x2000.png?impolicy=product&imwidth=120",
-    "image_for_detail": "https://www.nespresso.com/shared_res/nc2/pdp_bg/ispirazione-italiana/img/tex_ristretto_L.jpg",
-    "color": "#000000",
-    "decaffeinated": true,
-    "intensity": 3,
-    "aromatic_profile": "Poderoso & Contrastante",
-    "aromatic_notes": "Intensamente torrado",
-    "cup_size": {
-      "ristretto": true,
-      "expresso": true,
-      "lungo": false
-    } 
-  },
-  {
-    "name": "Gabrielzinho do irajá",
-    "short_description": "Café poderoso e contrastante",
-    "description": "Embaixador de todos os cafés italianos, desenvolvemos o Ispirazione Ristretto Italiano Decaffeinato, um café que utiliza a técnica Split Roast, uma torra separada dos grãos. O resultado? Sutis notas frutadas em um café intenso e encorpado.",
-    "image_for_list": "https://www.nespresso.com/ecom/medias/sys_master/public/13703618363422/C-0686-Responsive-Standard-2000x2000.png?impolicy=product&imwidth=120",
-    "image_for_detail": "https://www.nespresso.com/shared_res/nc2/pdp_bg/ispirazione-italiana/img/tex_ristretto_L.jpg",
-    "color": "#000000",
-    "decaffeinated": true,
-    "intensity": 3,
-    "aromatic_profile": "Poderoso & Contrastante",
-    "aromatic_notes": "Intensamente torrado",
-    "cup_size": {
-      "ristretto": true,
-      "expresso": true,
-      "lungo": false
-    } 
   }
 ]
