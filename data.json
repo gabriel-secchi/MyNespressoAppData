@@ -49,5 +49,22 @@
       "expresso": true,
       "lungo": false
     } 
+  },
+  {
+    "name": "Gabrielzinho do irajá",
+    "short_description": "Café poderoso e contrastante",
+    "description": "Embaixador de todos os cafés italianos, desenvolvemos o Ispirazione Ristretto Italiano Decaffeinato, um café que utiliza a técnica Split Roast, uma torra separada dos grãos. O resultado? Sutis notas frutadas em um café intenso e encorpado.",
+    "image_for_list": "https://www.nespresso.com/ecom/medias/sys_master/public/13703618363422/C-0686-Responsive-Standard-2000x2000.png?impolicy=product&imwidth=120",
+    "image_for_detail": "https://www.nespresso.com/shared_res/nc2/pdp_bg/ispirazione-italiana/img/tex_ristretto_L.jpg",
+    "color": "#000000",
+    "decaffeinated": true,
+    "intensity": 3,
+    "aromatic_profile": "Poderoso & Contrastante",
+    "aromatic_notes": "Intensamente torrado",
+    "cup_size": {
+      "ristretto": true,
+      "expresso": true,
+      "lungo": false
+    } 
   }
 ]
