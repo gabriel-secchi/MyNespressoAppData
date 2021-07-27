@@ -31,8 +31,9 @@
       "ristretto": true,
       "expresso": true,
       "lungo": false
-    },
-    {
+    }    
+  },
+  {
     "name": "Ristretto Italiano teste02",
     "short_description": "Café poderoso e contrastante",
     "description": "Embaixador de todos os cafés italianos, desenvolvemos o Ispirazione Ristretto Italiano Decaffeinato, um café que utiliza a técnica Split Roast, uma torra separada dos grãos. O resultado? Sutis notas frutadas em um café intenso e encorpado.",
