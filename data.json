@@ -10,7 +10,7 @@
     "intensity": 8,
     "aromatic_profile": "Rico & Encorpado",
     "aromatic_notes": "Maltado & Encorpado",
-    "cup-size": {
+    "cup_size": {
       "ristretto": false,
       "expresso": false,
       "lungo": true
@@ -27,7 +27,7 @@
     "intensity": 10,
     "aromatic_profile": "Poderoso & Contrastante",
     "aromatic_notes": "Intensamente torrado",
-    "cup-size": {
+    "cup_size": {
       "ristretto": true,
       "expresso": true,
       "lungo": false
