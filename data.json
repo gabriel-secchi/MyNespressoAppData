@@ -245,7 +245,7 @@
     "id": 12,
     "name": "Nicaragua",
     "short_description": "DOCE E HARMONIOSO",
-    "description": "Originário dos altos picos ocidentais da Nicarágua, nosso café produzido pelo processo \"black honey\" é cuidadosamente cultivado no sol por semanas para absorver os açúcares naturais do seu fruto.",
+    "description": "Originário dos altos picos ocidentais da Nicarágua, nosso café produzido pelo processo 'black honey' é cuidadosamente cultivado no sol por semanas para absorver os açúcares naturais do seu fruto.",
     "image_for_list": "https://www.nespresso.com/ecom/medias/sys_master/public/10838072492062.png",
     "image_for_detail": "",
     "color": "#000000",
@@ -262,5 +262,5 @@
       "expresso": true,
       "lungo": true
     }
-  },
+  }
 ]
